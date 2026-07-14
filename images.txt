@@ -3,3 +3,4 @@ langgenius/dify-sandbox:0.2.14
 ubuntu/squid:latest
 redis:6-alpine
 akyakya/doris-mcp-server:latest
+n8nio/n8n:latest
