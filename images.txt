@@ -5,4 +5,4 @@ redis:6-alpine
 akyakya/doris-mcp-server:latest
 n8nio/n8n:latest
 --platform=linux/arm64 nginx:latest
-dhi.io/nginx:1-alpine3.23-dev
+--platform=linux/arm64 nginx:mainline-alpine3.24-perl
